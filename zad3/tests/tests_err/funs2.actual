@@ -1,0 +1,9 @@
+function gcd takes 2 arguments, passed 1 line: 9 column: 15
+Variable res has type: int but got: error line: 9 column: 9
+function gcd takes 2 arguments, passed 3 line: 11 column: 15
+Variable res has type: int but got: error line: 11 column: 9
+Argument of a function gcd has type: string but expected type is: int line: 21 column: 20
+Argument of a function gcd has type: string but expected type is: int line: 21 column: 20
+operation not allowed between int and error line 21 column 13
+Type error: Return type is int, got error instead, line: 21 column: 5
+Missing a proper return statement for function lcm present at line: 19 column: 5

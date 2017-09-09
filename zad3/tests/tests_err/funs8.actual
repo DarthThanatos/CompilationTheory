@@ -1,0 +1,3 @@
+variable redefinition at line: 4 column: 5
+Redeclaration of 'a' at line: 16 column: 13
+function bad1 has not been declared,line: 26 column: 7

@@ -1,0 +1,8 @@
+Using function pow as variable, line: 6 column: 13
+Variable res has not been defined, line: 8 column: 13
+Using function pow as variable, line: 8 column: 21
+operation not allowed between int and error line 8 column 19
+Variable res has type: error but got: error line: 8 column: 13
+Using function pow as variable, line: 11 column: 16
+Type error: Return type is int, got error instead, line: 11 column: 9
+Missing a proper return statement for function pow present at line: 4 column: 5

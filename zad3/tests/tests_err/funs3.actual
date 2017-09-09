@@ -1,0 +1,2 @@
+Type error: Return type is int, got string instead, line: 6 column: 12
+Type error: Return type is int, got string instead, line: 7 column: 17

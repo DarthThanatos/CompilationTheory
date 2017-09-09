@@ -1,0 +1,4 @@
+function nbonacci has not been declared,line: 5 column: 12
+Type error: Return type is int, got error instead, line: 5 column: 5
+Missing a proper return statement for function trib present at line: 4 column: 5
+Redefinition of the function trib line: 8 column: 5

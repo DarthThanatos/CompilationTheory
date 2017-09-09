@@ -1,0 +1,4 @@
+function gcd takes 2 arguments, passed 1 line: 9 column: 15
+Variable res has type: int but got: error line: 9 column: 9
+function gcd takes 2 arguments, passed 3 line: 11 column: 15
+Variable res has type: int but got: error line: 11 column: 9

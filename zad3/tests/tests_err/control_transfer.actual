@@ -1,0 +1,3 @@
+Continue instruction can only be invoked from  within a loop, line: 6 column: 5
+Break instruction can only be invoked from  within a loop, line: 12 column: 5
+return can only be invoked from within a function, line: 17 column: 1

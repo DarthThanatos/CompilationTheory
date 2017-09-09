@@ -1,0 +1,71 @@
+/*while(a){
+    int res = get();
+}*/
+int res = 1;
+print res1,res2,res;
+
+continue;
+while(res<10){
+    res = res+"a";
+    break;
+    while(res){
+        continue;
+    }
+}
+float a = 0, b = 3, c = 2 * 0.0 + 8;
+#int d = a;
+string str = "abba";
+
+string getName(){
+    return "aa";
+}
+
+int gcd(int m, float n) {
+    int res = 0;
+    if (m!=n) {
+        if (m > n)
+            #res = getName();
+            res = gcd(m1,m);
+        else
+            res = gcd(m, m);
+    }
+    else
+        res = 1;
+    print res;
+    return res;
+}
+
+int get(int a){
+    return geta(a);
+}
+
+#int res2 = str;
+int res1 = gcd(0,0);
+int res3 = get(0);
+
+while(a >= c ) {
+    int d = 100;
+    a = 1/2*(a+b/a);
+}
+
+repeat{
+    #int a = 0;
+    e = a + 1;
+}until("a"!=1);
+
+int e = 0;
+
+int bad1(int a, int a) {
+    int c = 0;
+
+    while( a != 0 ) {
+        c = a;
+        a = e % a;
+        b = c;
+    }
+    return b;
+}
+
+int good = bad1(1, 1);
+int good = 1
+1;

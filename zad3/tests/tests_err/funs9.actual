@@ -1,0 +1,25 @@
+function gcd takes 2 arguments, passed 1 line: 9 column: 15
+Variable res has type: int but got: error line: 9 column: 9
+function gcd takes 2 arguments, passed 3 line: 11 column: 15
+Variable res has type: int but got: error line: 11 column: 9
+Argument of a function gcd has type: string but expected type is: int line: 21 column: 20
+Argument of a function gcd has type: string but expected type is: int line: 21 column: 20
+operation not allowed between int and error line 21 column 13
+Type error: Return type is int, got error instead, line: 21 column: 5
+Missing a proper return statement for function lcm present at line: 19 column: 5
+Type error: Return type is int, got string instead, line: 26 column: 12
+Warning: assigning float to int, possible loss of precision line:  27 column: 17
+function nbonacci has not been declared,line: 32 column: 12
+Type error: Return type is int, got error instead, line: 32 column: 5
+Missing a proper return statement for function trib present at line: 31 column: 5
+Redefinition of the function trib line: 35 column: 5
+Using function pow as variable, line: 49 column: 13
+Variable res has not been defined, line: 51 column: 13
+Using function pow as variable, line: 51 column: 19
+operation not allowed between error and int line 51 column 19
+Variable res has type: error but got: error line: 51 column: 13
+Using function pow as variable, line: 54 column: 16
+Type error: Return type is int, got error instead, line: 54 column: 9
+Missing a proper return statement for function pow present at line: 47 column: 5
+Missing a proper return statement for function gcd_iter present at line: 57 column: 5
+function gcd2 has not been declared,line: 68 column: 7
